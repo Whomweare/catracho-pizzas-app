@@ -1,0 +1,7 @@
+{
+  "name": "catracho-pizzas-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
